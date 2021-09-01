@@ -18,7 +18,7 @@ before_script:
   - npm install -g @angular/cli
   
 script:
-  - ng build --prod --base-href https://github.com/Manlilili123/bitcoin-order-app/
+  - ng build --prod --base-href https://Manlilili123.github.io/bitcoin-order-app/
   
 deploy:
   provider: pages
